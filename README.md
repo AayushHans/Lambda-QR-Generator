@@ -89,6 +89,3 @@ def lambda_handler(event, context):
 3. The QR code image will appear, and you can download or share it.
 
 ---
-
-## License
-MIT License
